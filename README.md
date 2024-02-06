@@ -145,7 +145,7 @@ Par la suite, je devais installer WordPress localement en ayant suivi ces étape
 #### Création d'un logo pour Ecolso, une marque blanche de MyScol
 Je devais répondre aux besoins de mon directeur pour la future marque blanche Ecolso appertenant à MyScol qui sera destiné à l'IFPC (Institut de Formation Professionnelle et Continue en Gestion), situé en Afrique. Ecolso est une application strictement identique à l'application MyScol, il y a juste le nom et l'identité visuelle choisi par l'IFPC qui change par rapport à MyScol. Je devais créer des logos à partir de Canva et les proposer à mon directeur afin de les vérifier et d'en choisir un qui sera le futur logo d'Ecolso destiné à l'IFPC.<br>
 Voici un extrait de logo Ecolso :<br>
-![logo](Annexes/Ecolso.png)
+![logo](Annexes/ecolso.png)
 
 #### Recherche des tutoriels/solutions manquantes dans l'aide de MyScol, puis les répertorier dans un document
 J'ai été amené à rechercher des tutoriels/solutions manquantes dans [le site d'aide de MyScol](https://aide.myscol.fr/support/home) et les répertorier dans un document.<br>
