@@ -53,7 +53,10 @@ Portrait et analyse de l'entreprise :
    - Réalisation d'un tableau comprenant toutes les fonctionnalités de tous les modules de l'application MyScol de TiqTec
    - Simplification du tableau par les fonctionnalités principales de l'application MyScol
    - Recherche de maquettes de sites Web compatibles WordPress et Elementor pour un client de TiqTec en fonction de ses besoins
+   - Installation de l'environnement Laragon afin d'installer localement WordPress
    - Création d'un logo pour Ecolso, une marque blanche de MyScol
+   - Recherche des tutoriels/solutions manquantes dans l'aide de MyScol, puis les répertorier dans un document
+   - Réalisation des tutoriels sous forme de vidéos pour l'aide de MyScol
 
 <u>PARTIE 4 : CONCLUSION
 
@@ -82,39 +85,38 @@ Ce compte-rendu de stage a pour objetif de partager mon expérience au sein de T
 ---
 
 <h3 align = center>PARTIE 3 : MISSIONS RÉALISÉES</h3>
-Durant mon stage, mes tâches principales étaient de développer des sites Web en HTML/CSS et JavaScript, ainsi qu'avec WordPress en l'installant localement via Laragon.<br>
 
 #### Révision et entraînement sur les bases du développement Front-End (HTML/CSS et JavaScript) et du développement Back-End (PHP et SQL)
-Durant la première semaine de stage, j'ai été amené à réviser et à s'entraîner sur les bases du développement Front-End qui sont le HTML/CSS et JavaScript, ainsi que sur les bases du développement Back-End qui sont le PHP et SQL via la plateforme [W3Schools](https://www.w3schools.com/). La fin de semaine, j'ai effectué un Quiz réalisé par mon directeur de stage Mr. Rahaman MUJEEBUR afin de tester mes connaissances.
+J'ai été amené à réviser et à s'entraîner sur les bases du développement Front-End qui sont le HTML/CSS et JavaScript, ainsi que sur les bases du développement Back-End qui sont le PHP et SQL via la plateforme [W3Schools](https://www.w3schools.com/). La fin de semaine, j'ai effectué un Quiz réalisé par mon directeur de stage afin de tester mes connaissances.
 <br><br>
 
 #### Réalisation de deux projets personnels : Sites Web développés en HTML/CSS et JavaScript
-Lors de l'entraînement sur les bases du développement Front-End et Back-End durant la première semaine de stage, j'ai réalisé deux projets personnels qui sont :
+Lors de l'entraînement sur les bases du développement Front-End et Back-End, j'ai réalisé deux projets personnels qui sont :
 - [AI Reader by Mouaz](https://ai-reader-by-mouaz.onrender.com) (Veuillez accéder à mon site sur ordinateur) : Site Web permettant de faire lire à voix haute par l'IA un texte que l'on a écrit avec un choix multiple de voix grâce à une API. Vous pouvez consulter le compte-rendu de ce site via [mon portfolio GitLab](https://gitlab.com/mouaz-portfolio/ia-reader).
 - [Password Generator by Mouaz](https://password-generator-by-mouaz.onrender.com/) : Site Web permettant de générer des mots de passe robustes de 16 caractères et pouvant ainsi les copier afin de les réutiliser ailleurs. Vous pouvez consulter le compte-rendu de ce site via [mon portfolio GitLab](https://gitlab.com/mouaz-portfolio/pwd-gen)
 <br><br>
 
 #### Réalisation d'un tableau comprenant toutes les fonctionnalités de tous les modules de l'application MyScol de TiqTec
-Duarant la deuxième semaine de stage, le directeur de stage m'a confié les accès de démo pour l'application Web MyScol de TiqTec afin de prendre conscience de leur application en parcourant toutes ses fonctionnalités et tous ses modules. Par la suite, je devais faire un tableau comprenant toutes les fonctionnalités de tous les modules de l'application MyScol.<br>
+Le directeur de stage m'a confié les accès de démo pour l'application Web MyScol de TiqTec afin de prendre conscience de leur application en parcourant toutes ses fonctionnalités et tous ses modules. Par la suite, je devais faire un tableau comprenant toutes les fonctionnalités de tous les modules de l'application MyScol.<br>
 Voici un extrait du tableau :
 <br>
 ![MyScol](Annexes/myscol.png)
 <br><br>
 
 #### Simplification du tableau par les fonctionnalités principales de l'application MyScol
-Après avoir fait le tableau présenté ci-dessus, j'ai été amené à synthétiser tout ce tableau en les triant par fonction principales et non par modules.<br>
+Après avoir fait le tableau présenté ci-dessus, j'ai été amené à synthétiser tout ce tableau en les triant par fonctions principales et non par modules.<br>
 Voici un extrait de la liste :
 <br>
 ![MyScol2](Annexes/myscol2.png)
 <br><br>
 
 #### Recherche de maquettes de sites Web compatibles WordPress et Elementor pour un client de TiqTec en fonction de ses besoins
-Durant la troisième semaine de stage, j'ai été amené à rechercher des maquettes de sites Web à partir du site [Themeforest](https://themeforest.net/) (qui propose des maquettes de sites internet) pour un client de TiqTec en fonction de ses besoins et attentes.<br>
+J'ai été amené à rechercher des maquettes de sites Web à partir du site [Themeforest](https://themeforest.net/) (qui propose des maquettes de sites internet) pour un client de TiqTec en fonction de ses besoins et attentes.<br>
 Le client est une école élémentaire privée qui se nomme La Plume Bleue, situé à Villefranche-sur-Saône.<br>
 A partir du site proposant des maquettes, je devais répondre aux besoins du client qui sont :
 - Design moderne, d'actualité et qui fait jeune
 - Compatibilité avec WordPress 6.2 au minimum
-- Compatibilité avec Elementor (extension WordPress)
+- Compatibilité avec Elementor (extension WordPress et WooCommerce)
 - La maquette proposé dans le site doit avoir une bonne documentation, un très bon support et des très bon avis
 
 <br>Voici un extrait d'une maquette :
@@ -141,9 +143,21 @@ Par la suite, je devais installer WordPress localement en ayant suivi ces étape
 
 
 #### Création d'un logo pour Ecolso, une marque blanche de MyScol
-Après avoir répondu aux besoins de l'école La Plume Bleue, je devais répondre aux besoins de mon directeur pour la future marque blanche Ecolso appertenant à TiqTec qui sera destiné à l'IFPC (Institut de Formation Professionnelle et Continue en Gestion), situé en Afrique. Ecolso est une application strictement identique à l'application MyScol, il y a juste le nom et l'identité visuelle choisi par l'IFPC qui change par rapport à MyScol. Je devais créer des logos à partir de Canva et les proposer à mon directeur afin de les vérifier et d'en choisir un qui sera le futur logo de Ecolso destiné à l'IFPC.<br>
+Je devais répondre aux besoins de mon directeur pour la future marque blanche Ecolso appertenant à MyScol qui sera destiné à l'IFPC (Institut de Formation Professionnelle et Continue en Gestion), situé en Afrique. Ecolso est une application strictement identique à l'application MyScol, il y a juste le nom et l'identité visuelle choisi par l'IFPC qui change par rapport à MyScol. Je devais créer des logos à partir de Canva et les proposer à mon directeur afin de les vérifier et d'en choisir un qui sera le futur logo d'Ecolso destiné à l'IFPC.<br>
 Voici un extrait de logo Ecolso :<br>
 ![logo](Annexes/Ecolso.png)
+
+#### Recherche des tutoriels/solutions manquantes dans l'aide de MyScol, puis les répertorier dans un document
+J'ai été amené à rechercher des tutoriels/solutions manquantes dans [le site d'aide de MyScol](https://aide.myscol.fr/support/home) et les répertorier dans un document.<br>
+Voici un extrait du document :<br>
+![aide](Annexes/aide.png)
+
+#### Réalisation des tutoriels sous forme de vidéos pour l'aide de MyScol
+Je devais réaliser des tutoriels sous forme de vidéos pour l'aide de MyScol avec l'aide de l'application [ScreenPal](https://screenpal.com/) (Outil logiciel de screencasting et de montage vidéo) et de l'extension Google Chrome [Dubble](https://dubble.so/) (Guide étape par étape et créateur de captures d'écran).<br>
+Voici un extrait de l'application ScreenPal :<br>
+![screenpal](Annexes/screenpal.png)<br><br>
+Voici un extrait d'un tutoriel pas à pas via Dubble :<br>
+<iframe width="100%" height="400px" frameborder=0 allowfullscreen src="https://dubble.so/guides/comment-exporter-la-fiche-de-renseignement-des-eleves-en-masse-yneswvg27jcv8zzen6er?embed=1"></iframe>
 
 ---
 
