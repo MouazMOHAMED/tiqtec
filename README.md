@@ -50,9 +50,9 @@ Portrait et analyse de l'entreprise :
    - Réalisation de deux projets personnels : Sites Web développés en HTML/CSS et JavaScript
    - Réalisation d'un tableau comprenant toutes les fonctionnalités de tous les modules de l'application MyScol de TiqTec
    - Simplification du tableau par les fonctionnalités principales de l'application MyScol
-   - Recherche de maquettes de sites Web compatibles WordPress et Elementor pour un client de TiqTec en fonction de ses besoins
+   - Recherche de maquettes de sites Web compatibles WordPress, WooCommerce et Elementor pour un client de TiqTec en fonction de ses besoins
    - Découverte et installation de l'environnement Laragon afin d'installer localement WordPress
-   - Création d'un logo nommé Ecolso, une marque blanche de MyScol
+   - Création d'un logo qui se nomme Ecolso, une marque blanche de MyScol
    - Recherche des tutoriels/solutions manquantes dans l'aide de MyScol, puis les répertorier dans un document
    - Réalisation des tutoriels sous forme de vidéos pour l'aide de MyScol
 
@@ -108,7 +108,7 @@ Voici un extrait de la liste :
 ![MyScol2](Annexes/myscol2.png)
 <br><br>
 
-#### Recherche de maquettes de sites Web compatibles WordPress et Elementor pour un client de TiqTec en fonction de ses besoins
+#### Recherche de maquettes de sites Web compatibles WordPress, WooCommerce et Elementor pour un client de TiqTec en fonction de ses besoins
 J'ai été amené à rechercher des maquettes de sites Web à partir du site [Themeforest](https://themeforest.net/) (qui propose des maquettes de sites internet) pour un client de TiqTec en fonction de ses besoins et attentes.<br>
 Le client est une école élémentaire privée qui se nomme La Plume Bleue, situé à Villefranche-sur-Saône.<br>
 A partir du site proposant des maquettes, je devais répondre aux besoins du client qui sont :
@@ -141,7 +141,7 @@ Par la suite, je devais installer WordPress localement en ayant suivi ces étape
 ![étape5](Annexes/wp5.png)<br>
 
 
-#### Création d'un logo nommé Ecolso, une marque blanche de MyScol
+#### Création d'un logo qui se nomme Ecolso, une marque blanche de MyScol
 Je devais répondre aux besoins de mon directeur pour la future marque blanche Ecolso appertenant à MyScol qui sera destiné à l'IFPC (Institut de Formation Professionnelle et Continue en Gestion), situé en Afrique. Ecolso est une application strictement identique à l'application MyScol, il y a juste le nom et l'identité visuelle choisi par l'IFPC qui change par rapport à MyScol. Je devais créer des logos à partir de Canva, les rassembler dans un document et les envoyer à mon directeur afin de vérifier et d'envoyer à l'IFPC les logos pour que cet institut choisi un logo répondant à leur besoins et qui sera le logo d'Ecolso.<br><br>
 Voici un extrait de logo Ecolso :<br>
 ![logo](Annexes/Ecolso.png)
