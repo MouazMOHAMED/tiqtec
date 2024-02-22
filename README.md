@@ -53,8 +53,8 @@ Portrait et analyse de l'entreprise :
    - Recherche de maquettes de sites Web compatibles WordPress, WooCommerce et Elementor pour un client de TiqTec en fonction de ses besoins
    - Découverte et installation de l'environnement Laragon afin d'installer localement WordPress
    - Création et proposition de logos qui se nomment Ecolso, une marque blanche de MyScol 
-   - Recherche des tutoriels/solutions manquantes dans l'aide de MyScol, puis les répertorier dans un document
-   - Réalisation des tutoriels sous forme de vidéos pour l'aide de MyScol
+   - Recherche de tutoriels/solutions manquantes dans l'aide de MyScol afin de les répertorier dans un document
+   - Réalisation de tutoriels/solutions manquantes sous forme de vidéos et de guide pas à pas pour le site d'aide de MyScol
 
 <u>PARTIE 4 : CONCLUSION
 
@@ -146,13 +146,13 @@ Je devais répondre aux besoins de mon directeur pour la future marque blanche E
 Voici un extrait de logo Ecolso :<br>
 ![logo](Annexes/Ecolso.png)
 
-#### Recherche des tutoriels/solutions manquantes dans l'aide de MyScol, puis les répertorier dans un document
+#### Recherche de tutoriels/solutions manquantes dans l'aide de MyScol afin de les répertorier dans un document
 J'ai été amené à rechercher des tutoriels/solutions manquantes dans [le site d'aide de MyScol](https://aide.myscol.fr/support/home) et les répertorier dans un document.<br>
 Voici un extrait du document :<br>
 ![aide](Annexes/aide.png)
 
-#### Réalisation des tutoriels sous forme de vidéos pour l'aide de MyScol
-Je devais réaliser des tutoriels sous forme de vidéos pour l'aide de MyScol avec l'aide de l'application [ScreenPal](https://screenpal.com/) (Outil logiciel de screencasting et de montage vidéo) et de l'extension Google Chrome [Dubble](https://dubble.so/) (Extension Google Chrome de guide étape par étape et de screencasting).<br>
+#### Réalisation de tutoriels/solutions manquantes sous forme de vidéos et de guide pas à pas pour le site d'aide de MyScol
+Je devais réaliser des tutoriels/solutions sous forme de vidéos et de guide pas à pas pour le site d'aide de MyScol avec l'aide de l'application [ScreenPal](https://screenpal.com/) (Outil logiciel de screencasting et de montage vidéo) et de l'extension Google Chrome [Dubble](https://dubble.so/) (Extension Google Chrome de guide étape par étape et de screencasting).<br>
 Voici un extrait de l'application ScreenPal :<br>
 ![screenpal](Annexes/screenpal.png)<br><br>
 [Voici un extrait d'un tutoriel pas à pas via Dubble](https://dubble.so/guides/comment-exporter-la-fiche-de-renseignement-des-eleves-en-masse-yneswvg27jcv8zzen6er?embed=1) 👈
