@@ -52,7 +52,7 @@ Portrait et analyse de l'entreprise :
    - Simplification du tableau par les fonctionnalités principales de l'application MyScol
    - Recherche de maquettes de sites Web compatibles WordPress, WooCommerce et Elementor pour un client de TiqTec en fonction de ses besoins
    - Découverte et installation de l'environnement Laragon afin d'installer localement WordPress
-   - Création d'un logo qui se nomme Ecolso, une marque blanche de MyScol
+   - Création et proposition de logos qui se nomme Ecolso, une marque blanche de MyScol 
    - Recherche des tutoriels/solutions manquantes dans l'aide de MyScol, puis les répertorier dans un document
    - Réalisation des tutoriels sous forme de vidéos pour l'aide de MyScol
 
@@ -141,8 +141,8 @@ Par la suite, je devais installer WordPress localement en ayant suivi ces étape
 ![étape5](Annexes/wp5.png)<br>
 
 
-#### Création d'un logo qui se nomme Ecolso, une marque blanche de MyScol
-Je devais répondre aux besoins de mon directeur pour la future marque blanche Ecolso appertenant à MyScol qui sera destiné à l'IFPC (Institut de Formation Professionnelle et Continue en Gestion), situé en Afrique. Ecolso est une application strictement identique à l'application MyScol, il y a juste le nom et l'identité visuelle choisi par l'IFPC qui change par rapport à MyScol. Je devais créer des logos à partir de Canva, les rassembler dans un document et les envoyer à mon directeur afin de vérifier et d'envoyer à l'IFPC les logos pour que cet institut choisi un logo répondant à leur besoins et qui sera le logo d'Ecolso.<br><br>
+#### Création et proposition de logos qui se nomme Ecolso, une marque blanche de MyScol 
+Je devais répondre aux besoins de mon directeur pour la future marque blanche Ecolso appertenant à MyScol qui sera destiné à l'IFPC (Institut de Formation Professionnelle et Continue en Gestion), situé en Afrique. Ecolso est une application strictement identique à l'application MyScol, il y a juste le nom et l'identité visuelle choisi par l'IFPC qui change par rapport à MyScol. Je devais créer des logos à partir de Canva, les rassembler dans un document et les envoyer à mon directeur afin de vérifier et d'envoyer à l'IFPC les propositions de logos pour que cet institut choisi un logo répondant à leur besoins et qui sera le logo d'Ecolso.<br><br>
 Voici un extrait de logo Ecolso :<br>
 ![logo](Annexes/Ecolso.png)
 
