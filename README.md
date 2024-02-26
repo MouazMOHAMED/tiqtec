@@ -85,7 +85,7 @@ Ce compte-rendu de stage a pour objetif de partager mon expérience au sein de T
 </p>
 <br>
 
-![orga]()
+![orga](Annexes/orga.png)
 
 <p>
     L'organigramme de Cabinet Action correspond à une structure en soleil, permettant ainsi à la direction d'avoir le contrôle total dans l'ensemble, d'être en lien étroit avec tous les acteurs internes et externes de l'entreprise et d'être en contact direct avec les salariés.
