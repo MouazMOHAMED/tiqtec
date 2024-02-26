@@ -80,6 +80,20 @@ Ce compte-rendu de stage a pour objetif de partager mon expérience au sein de T
 </p>
 <br><br>
 
+<p>
+    <u>Organisation interne de l'entreprise :</u> TiqTec est une PME composée de plusieurs salariés répartis en 6 services : La direction, les managers (gestion) de projet (sous-traitants), les responsables commercial (freelance), les responsables marketing (freelance), les développeurs (sous-traitants) et les stagiaires (Moi, Sofiane et Naïm).
+</p>
+<br>
+
+![orga]()
+
+<p>
+    L'organigramme de Cabinet Action correspond à une structure en soleil, permettant ainsi à la direction d'avoir le contrôle total dans l'ensemble, d'être en lien étroit avec tous les acteurs internes et externes de l'entreprise et d'être en contact direct avec les salariés.
+</p>
+<br>
+
+<u>Analyse du Chiffre d'Affaire :</u> Le Chiffre d'Affaires de l'année de 2023 a été de 400 000 euros. Depuis la création datant du 15 septembre 2018, l’entreprise n‘a cessé d’augmenter avec un taux d’évolution positif avec une moyenne de 80 000 euros minimum de Chiffre d'Affaires.
+
 ---
 
 <h3 align = center>PARTIE 3 : MISSIONS RÉALISÉES</h3>
