@@ -169,7 +169,8 @@ Voici un extrait du document :<br>
 Je devais réaliser des tutoriels/solutions sous forme de vidéos et de guide pas à pas pour le site d'aide de MyScol avec l'aide de l'application [ScreenPal](https://screenpal.com/) (Outil logiciel de screencasting et de montage vidéo) et de l'extension Google Chrome [Dubble](https://dubble.so/) (Extension Google Chrome de guide étape par étape et de screencasting).<br>
 Voici un extrait de l'application ScreenPal :<br>
 ![screenpal](Annexes/screenpal.png)<br><br>
-[Voici un extrait d'un tutoriel pas à pas via Dubble](https://dubble.so/guides/comment-exporter-la-fiche-de-renseignement-des-eleves-en-masse-yneswvg27jcv8zzen6er?embed=1) 👈
+[Voici un extrait d'un tutoriel pas à pas via Dubble](https://dubble.so/guides/comment-exporter-la-fiche-de-renseignement-des-eleves-en-masse-e83h5mzgipklhhfbdokd) 👈<br>
+![dubble](Annexes/dubble.png)
 
 ---
 
